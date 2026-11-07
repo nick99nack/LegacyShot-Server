@@ -1,4 +1,4 @@
-# LegacyShot.Server
+# LegacyShot Server
 
 .NET server for the LSUP/2 upload protocol. Clients log in with an HMAC-MD5 challenge-response and upload images in resumable, windowed chunks over plain TCP.
 
